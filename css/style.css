@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+header , footer{
+    background-color: #2a52be;
+    min-height: 15vh;
+}
+
+.main_content{
+    background-color: #c7c7c7;
+}
+
+.r-nav{
+    background-color: #a4d3f9;
+
+}
+
+.sidebar{
+    background-color: #a4d3f9;
+}
+
+.content_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
